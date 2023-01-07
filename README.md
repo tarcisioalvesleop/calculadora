@@ -1,2 +1,2 @@
 # calculadora
-Desafio da calculadora em JavaScript
+Desafio da calculadora com React
